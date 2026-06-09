@@ -1,0 +1,4 @@
+{
+  "$schema": "https://oxlint.rs/schema.json",
+  "ignorePatterns": ["node_modules/**", "dist/**"]
+}
